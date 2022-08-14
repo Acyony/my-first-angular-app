@@ -1,6 +1,6 @@
 # MyAngularApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.1, and it's the first project I'm building using Angular.
 
 ## Development server
 
